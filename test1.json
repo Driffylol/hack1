@@ -1,0 +1,14 @@
+{
+	"title": "gasil"
+	"description": "GBASIL"
+	"author": "Driffylol"
+	"url": "https://raw.githubusercontent.com/Driffylol/hack1/main/test1json",
+	"scripts": [
+		"https://raw.githubusercontent.com/Driffylol/hack1/main/gbasil1.js",
+		"https://raw.githubusercontent.com/Driffylol/hack1/main/gbasil1.js",
+		"https://raw.githubusercontent.com/Driffylol/hack1/main/gbasil1.js",
+		"https://raw.githubusercontent.com/Driffylol/hack1/main/gbasil1.js"
+	],
+	"setupScript": "https://raw.githubusercontent.com/Driffylol/hack1/main/gbasil1.js",
+	"cleanupScript": "https://raw.githubusercontent.com/Driffylol/hack1/main/gbasil1.js"
+}
